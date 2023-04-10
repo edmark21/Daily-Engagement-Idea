@@ -17,7 +17,7 @@ You'll also need to create a `credentials.json` file with your Google API creden
 ## Installation
 
 1. Clone this repository to your computer.
-2. Navigate to the directory where you cloned the repository and run `composer install` to install the required dependencies.
+2. Navigate to the directory where you cloned the repository and run `composer install google/apiclient` to install the required dependencies.
 
 ## Usage
 
